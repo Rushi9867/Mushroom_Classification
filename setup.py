@@ -14,7 +14,7 @@ def get_requirements()->List[str]:
 
 
 setup(
-    name="sensor",
+    name="mushroom",
     version="0.0.1",
     author="Rushikesh",
     author_email="rushikhandare2203@gmail.com",
