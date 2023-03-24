@@ -14,7 +14,7 @@ python main.py
 To download your dataset
 
 ```
-wget https://raw.githubusercontent.com/herbert0419/Insurance-Premium-Prediction/main/insurance.csv
+wget https://raw.githubusercontent.com/Rushi9867/Mushroom_Classification/main/Mushrooms_New.csv
 ```
 
 This is changes made in neuro lab
