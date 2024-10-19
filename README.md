@@ -137,3 +137,6 @@ sudo sh get-docker.sh
 sudo usermod -aG docker ubuntu
 newgrp docker
 ```
+```
+Streamlit Web App :- https://rushi9867-mushroom-classification-app-j75rle.streamlit.app/
+```
